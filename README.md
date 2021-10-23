@@ -1,6 +1,6 @@
 ### Hello! I'm Gonzalo Gomez - aka [GonzaSystem] 👋
 
-## I'm 25 years old and I'm a Father and a Full Stack Web Developer!
+## I'm 25 years old, I'm a Father and also a Full Stack Web Developer!
 
 - 🌱 I’m currently growing my Laravel & Vue experience (working with services containers & advanced vue in different projects)
 - 👯 I’m looking to collaborate with other content creators to build great stuff together
