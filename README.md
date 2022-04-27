@@ -1,4 +1,4 @@
-### Hello! I'm Gonzalo Gomez - aka [GonzaSystem] 👋
+### Hello! I'm Gonzalo Gomez - aka [Gonza] 👋
 
 ## I'm 25 years old, I'm a Father and also a Full Stack Web Developer!
 
